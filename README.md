@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoskae
+- 👋 Hi, I’m @Yoskar
 - 👀 I’m interested in Phopotography
 - 🌱 I’m currently learning Comp Sci
 - 💞️ I’m looking to collaborate on anything that peaks my interest
